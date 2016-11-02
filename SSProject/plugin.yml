@@ -1,0 +1,12 @@
+name: SSProject
+main: water.supersoul.project.Main
+version: 1.0.1
+commands:
+  Apply:
+    description: Application for project
+  Exitapply:
+    description: Exit current application
+  Deleteapply:
+    description: Delete an application
+  Checkapply:
+    description: Check an application
